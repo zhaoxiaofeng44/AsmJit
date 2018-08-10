@@ -1,0 +1,127 @@
+﻿  Building Custom Rule E:/asmjit-master/CMakeLists.txt
+  CMake does not need to re-run because E:/asmjit-master/build_vs2015_x64/CMakeFiles/generate.stamp is up-to-date.
+  arch.cpp
+  assembler.cpp
+  codebuilder.cpp
+  codecompiler.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codebuilder.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\codebuilder.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codebuilder.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\arch.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\arch.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\arch.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\base\arch.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\assembler.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\assembler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\assembler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codecompiler.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\codecompiler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codecompiler.cpp)
+  codeemitter.cpp
+  codeholder.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codeholder.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\codeholder.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codeholder.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codeemitter.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\codeemitter.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\codeemitter.cpp)
+  constpool.cpp
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\base\codeemitter.cpp)
+  cpuinfo.cpp
+  func.cpp
+  globals.cpp
+  inst.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\cpuinfo.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\cpuinfo.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\cpuinfo.cpp)
+  logging.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\func.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\func.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\func.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\inst.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\inst.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\inst.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\logging.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\logging.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\logging.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\base\inst.cpp)
+  operand.cpp
+  osutils.cpp
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\base\logging.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\base\func.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\operand.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\operand.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\operand.cpp)
+  regalloc.cpp
+  runtime.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\runtime.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\runtime.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\runtime.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\regalloc.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\base\regalloc.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\base\regalloc.cpp)
+  string.cpp
+  utils.cpp
+  vmem.cpp
+  zone.cpp
+  x86assembler.cpp
+  x86builder.cpp
+  x86compiler.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86builder.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86builder.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86builder.cpp)
+  x86internal.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86assembler.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86assembler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86assembler.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86builder.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86assembler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86compiler.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86compiler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86compiler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86internal.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86internal.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86internal.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86internal.cpp)
+  x86inst.cpp
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86compiler.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86inst.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86inst.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86inst.cpp)
+  x86instimpl.cpp
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86inst.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86instimpl.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86instimpl.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86instimpl.cpp)
+E:\asmjit-master\src\asmjit\x86\x86inst.cpp(2444): warning C4838: 从“int”转换到“uint32_t”需要收缩转换
+  x86logging.cpp
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86instimpl.cpp)
+E:\asmjit-master\src\asmjit\x86\x86instimpl.cpp(113): warning C4838: 从“”转换到“uint32_t”需要收缩转换
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86logging.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86logging.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86logging.cpp)
+  x86operand.cpp
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86logging.cpp)
+  x86operand_regs.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand.cpp)
+  x86regalloc.cpp
+  asmjit_test_unit.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand_regs.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand_regs.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand_regs.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86operand_regs.cpp)
+  broken.cpp
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\test\asmjit_test_unit.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\test\asmjit_test_unit.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\test\asmjit_test_unit.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “~”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86regalloc.cpp)
+  e:\asmjit-master\src\asmjit\base\../base/operand.h(1527): note: 参见对正在编译的类 模板 实例化“asmjit::TypeIdOfInt<bool>”的引用 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86regalloc.cpp)
+e:\asmjit-master\src\asmjit\base\../base/operand.h(1500): warning C4804: “<”: 在操作中使用类型“bool”不安全 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86regalloc.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\test\asmjit_test_unit.cpp)
+e:\asmjit-master\src\asmjit\x86\../x86/x86globals.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 E:\asmjit-master\src\asmjit\x86\x86regalloc.cpp)
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  asmjit_test_unit.vcxproj -> E:\asmjit-master\build_vs2015_x64\Debug\asmjit_test_unit.exe
+  asmjit_test_unit.vcxproj -> E:/asmjit-master/build_vs2015_x64/Debug/asmjit_test_unit.pdb (Full PDB)

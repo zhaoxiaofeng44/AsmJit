@@ -1,0 +1,9 @@
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/asmjit_bench_x86.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/asmjit.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/asmjit_test_opcode.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/asmjit_test_unit.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/asmjit_test_x86_asm.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/INSTALL.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/asmjit_test_x86_cc.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/ALL_BUILD.dir
+E:/asmjit-master/build_vs2015_x64/CMakeFiles/ZERO_CHECK.dir
